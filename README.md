@@ -1,2 +1,2 @@
 # projeto1
-projeto ainda não eçaborado
+projeto ainda não elaborado
